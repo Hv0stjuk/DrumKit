@@ -23,6 +23,7 @@ body,html {
 }
 
 .key {
+  cursor: pointer;
   border: .4rem solid black;
   border-radius: .5rem;
   margin: 1rem;
