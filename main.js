@@ -35,3 +35,4 @@ window.addEventListener('keydown', (e) => {
     this.classList.remove('playing');
   }
 });
+
